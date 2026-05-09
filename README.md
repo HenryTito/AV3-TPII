@@ -38,7 +38,7 @@ node src/js/app/app.js
 ## Resumo (todos os comandos de uma vez)
 
 ```bash
-npm install
+npm install  (Dentro de atviii-atlantis)
 tsc
 node src/js/app/app.js
 ```
